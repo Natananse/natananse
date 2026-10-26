@@ -76,7 +76,7 @@
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="./assets/trophies.png" alt="My trophies and certificates" width="80%"/>
+  <img src="./assets/trophies.svg" alt="Certificates coming soon" width="80%"/>
 </p>
 
 ---
