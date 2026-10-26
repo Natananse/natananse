@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" width="100%">
+<defs>
+<linearGradient id="g"><stop offset="0" stop-color="#00f5a0"/><stop offset=".4" stop-color="#00d9f5"/><stop offset=".7" stop-color="#a855f7"/><stop offset="1" stop-color="#ff3cac"/></linearGradient>
+<filter id="f"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<clipPath id="c"><rect x="4" y="4" width="892" height="292" rx="16"/></clipPath>
+<style>.m{font:14px monospace;fill:#00ff66;writing-mode:vertical-rl;letter-spacing:2px}.t{font:700 44px Arial,sans-serif;fill:#fff}.s{font:italic 20px Arial,sans-serif;fill:#a78bfa}.d{font:13px monospace;fill:#94a3b8}</style>
+<symbol id="h" overflow="visible"><g fill="none" stroke="url(#g)" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" filter="url(#f)"><polygon points="0,-48 42,-24 42,24 0,48 -42,24 -42,-24"><animate attributeName="stroke-width" values="3;6;3" dur="2.4s" repeatCount="indefinite"/></polygon><polyline points="-14,-12 -26,0 -14,12"/><polyline points="14,-12 26,0 14,12"/><line x1="4" y1="-16" x2="-4" y2="16"/></g></symbol>
+</defs>
+<rect width="900" height="300" rx="16" fill="#02040a"/>
+<g clip-path="url(#c)">
+<text x="15" y="-170" class="m" opacity="0.4">FC$*A0*XFE<animateTransform attributeName="transform" type="translate" from="0 0" to="0 480" dur="6s" begin="-1s" repeatCount="indefinite"/></text>
+<text x="45" y="-170" class="m" opacity="0.6">**#CFC+#0A<animateTransform attributeName="transform" type="translate" from="0 0" to="0 480" dur="6s" begin="-1s" repeatCount="indefinite"/></text>
+<text x="75" y="-170" class="m" opacity="0.4">D1Y0X*#@#%<animateTransform attributeName="transform" type="translate" from="0 0" to="0 480" dur="9s" begin="-0s" repeatCount="indefinite"/></text>
+<text x="105" y="-170" class="m" opacity="0.8">C$B1C*EX@Y<animateTransform attributeName="transform" type="translate" from="0 0" to="0 480" dur="7s" begin="-1s" repeatCount="indefinite"/></text>
+<text x="135" y="-170" class="m" opacity="0.8">@+#$@FZ0XD<animateTransform attributeName="transform" type="translate" from="0 0" to="0 480" dur="6s" begin="-6s" repeatCount="indefinite"/></text>
+<text x="165" y="-170" class="m" opacity="0.9">ZBEXYBA**A<animateTransform attributeName="transform" type="translate" from="0 0" to="0 480" dur="8s" begin="-2s" repeatCount="indefinite"/></text>
+<text x="195" y="-170" class="m" opacity="0.6">$A@C0Y@@B1<animateTransform attributeName="transform" type="translate" from="0 0" to="0 480" dur="4s" begin="-3s" repeatCount="indefinite"/></text>
+<text x="225" y="-170" class="m" opacity="0.7">1#ZX+F1Y0A<animateTransform attributeName="transform" type="translate" from="0 0" to="0 480" dur="7s" begin="-0s" repeatCount="indefinite"/></text>
+<text x="255" y="-170" class="m" opacity="0.7">B1E@YXC1ZZ<animateTransform attributeName="transform" type="translate" from="0 0" to="0 480" dur="6s" begin="-1s" repeatCount="indefinite"/></text>
+<text x="285" y="-170" class="m" opacity="0.5">$C##%+#B+X<animateTransform attributeName="transform" type="translate" from="0 0" to="0 480" dur="8s" begin="-5s" repeatCount="indefinite"/></text>
+<text x="315" y="-170" class="m" opacity="0.7">@FY@X+YZ0@<animateTransform attributeName="transform" type="translate" from="0 0" to="0 480" dur="5s" begin="-3s" repeatCount="indefinite"/></text>
+<text x="345" y="-170" class="m" opacity="0.6">Z0#C1Z%$$X<animateTransform attributeName="transform" type="translate" from="0 0" to="0 480" dur="9s" begin="-4s" repeatCount="indefinite"/></text>
+<text x="375" y="-170" class="m" opacity="0.4">*010$X%YZD<animateTransform attributeName="transform" type="translate" from="0 0" to="0 480" dur="6s" begin="-1s" repeatCount="indefinite"/></text>
+<text x="405" y="-170" class="m" opacity="0.6">$DZ$XY#B0C<animateTransform attributeName="transform" type="translate" from="0 0" to="0 480" dur="5s" begin="-2s" repeatCount="indefinite"/></text>
+<text x="435" y="-170" class="m" opacity="0.8">Y+FXFZD@BB<animateTransform attributeName="transform" type="translate" from="0 0" to="0 480" dur="5s" begin="-3s" repeatCount="indefinite"/></text>
+<text x="465" y="-170" class="m" opacity="0.6">ZZF%DAZE%X<animateTransform attributeName="transform" type="translate" from="0 0" to="0 480" dur="5s" begin="-0s" repeatCount="indefinite"/></text>
+<text x="495" y="-170" class="m" opacity="0.5">FB1+EZDXZA<animateTransform attributeName="transform" type="translate" from="0 0" to="0 480" dur="5s" begin="-5s" repeatCount="indefinite"/></text>
+<text x="525" y="-170" class="m" opacity="0.4">$C@Y+X%$@Y<animateTransform attributeName="transform" type="translate" from="0 0" to="0 480" dur="6s" begin="-4s" repeatCount="indefinite"/></text>
+<text x="555" y="-170" class="m" opacity="0.9">@@1@CE0*+@<animateTransform attributeName="transform" type="translate" from="0 0" to="0 480" dur="5s" begin="-3s" repeatCount="indefinite"/></text>
+<text x="585" y="-170" class="m" opacity="0.4">F1%+YZFAYB<animateTransform attributeName="transform" type="translate" from="0 0" to="0 480" dur="8s" begin="-5s" repeatCount="indefinite"/></text>
+<text x="615" y="-170" class="m" opacity="0.4">F11+E@10*B<animateTransform attributeName="transform" type="translate" from="0 0" to="0 480" dur="5s" begin="-1s" repeatCount="indefinite"/></text>
+<text x="645" y="-170" class="m" opacity="0.6">D+YF0+@1BZ<animateTransform attributeName="transform" type="translate" from="0 0" to="0 480" dur="8s" begin="-4s" repeatCount="indefinite"/></text>
+<text x="675" y="-170" class="m" opacity="0.4">CX*1$FEBBD<animateTransform attributeName="transform" type="translate" from="0 0" to="0 480" dur="8s" begin="-2s" repeatCount="indefinite"/></text>
+<text x="705" y="-170" class="m" opacity="0.7">FXC0*#1XFX<animateTransform attributeName="transform" type="translate" from="0 0" to="0 480" dur="5s" begin="-3s" repeatCount="indefinite"/></text>
+<text x="735" y="-170" class="m" opacity="0.6">++@1*Z01C1<animateTransform attributeName="transform" type="translate" from="0 0" to="0 480" dur="6s" begin="-3s" repeatCount="indefinite"/></text>
+<text x="765" y="-170" class="m" opacity="0.6">B1A*1A++*Z<animateTransform attributeName="transform" type="translate" from="0 0" to="0 480" dur="7s" begin="-5s" repeatCount="indefinite"/></text>
+<text x="795" y="-170" class="m" opacity="0.6">DZA$##Y$XE<animateTransform attributeName="transform" type="translate" from="0 0" to="0 480" dur="8s" begin="-3s" repeatCount="indefinite"/></text>
+<text x="825" y="-170" class="m" opacity="0.5">Z@BC0#AD1$<animateTransform attributeName="transform" type="translate" from="0 0" to="0 480" dur="4s" begin="-1s" repeatCount="indefinite"/></text>
+<text x="855" y="-170" class="m" opacity="0.5">%#1@1$*Z@@<animateTransform attributeName="transform" type="translate" from="0 0" to="0 480" dur="9s" begin="-2s" repeatCount="indefinite"/></text>
+<text x="885" y="-170" class="m" opacity="0.6">%0FEXA@F@C<animateTransform attributeName="transform" type="translate" from="0 0" to="0 480" dur="4s" begin="-2s" repeatCount="indefinite"/></text>
+<rect width="900" height="300" fill="#02040a" opacity=".55"/></g>
+<rect x="4" y="4" width="892" height="292" rx="16" fill="none" stroke="url(#g)" stroke-width="3" stroke-dasharray="60 20" filter="url(#f)"><animate attributeName="stroke-dashoffset" from="0" to="-800" dur="5s" repeatCount="indefinite"/></rect>
+<use href="#h" x="130" y="150"><animate attributeName="y" values="150;138;150" dur="3s" repeatCount="indefinite"/></use>
+<use href="#h" x="770" y="150"><animate attributeName="y" values="150;162;150" dur="3s" repeatCount="indefinite"/></use>
+<text x="450" y="148" text-anchor="middle" class="t" filter="url(#f)">Hey, I'm Natananse<animate attributeName="opacity" values="0;1" dur="1.5s" fill="freeze"/></text>
+<text x="450" y="188" text-anchor="middle" class="s">Fullstack · App · AI enthusiast</text>
+<text x="450" y="226" text-anchor="middle" class="d">$ building things that ship_<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.5;.5;1" dur="1s" repeatCount="indefinite"/></text>
+</svg>
