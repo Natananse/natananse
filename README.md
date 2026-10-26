@@ -59,7 +59,7 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Natananse&theme=react-dark&bg_color=0d1117&color=00f5a0&line=a855f7&point=ffffff&area=true&area_color=00f5a0&hide_border=true&radius=10&custom_title=Contributions%20in%20the%20last%20year" />
+  <img src="./assets/contributions.png" alt="My contribution graph" width="100%"/>
 </p>
 
 ### 🐍 Contribution Snake
@@ -76,7 +76,7 @@
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Natananse&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" />
+  <img src="./assets/trophies.png" alt="My trophies and certificates" width="80%"/>
 </p>
 
 ---
