@@ -76,7 +76,7 @@
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="./assets/Natnael%20Ermias.png"s width="80%"/>
+  <img src="./assets/Natnael%20Ermias.png" width="80%"/>
 </p>
 
 ---
